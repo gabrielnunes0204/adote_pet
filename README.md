@@ -1,8 +1,8 @@
-<img src="images/prints/gif-adote.gif">
+<img src="assets/prints/gif-adote.gif">
 
-<img src="images/prints/01.png">
-<img src="images/prints/02.png">
-<img src="images/prints/03.png">
+<img src="assets/prints/01.png">
+<img src="assets/prints/02.png">
+<img src="assets/prints/03.png">
 
 <div style="text-align: center">
 	<h2>Ferramentas Utilizadas:</h2>
